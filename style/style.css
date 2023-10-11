@@ -49,7 +49,7 @@ body{
 }
 .about-image{
     padding-top: 140px;
-    padding-left: 250px;
+    padding-left: 200px;
 }
 .about-title{
     position: absolute;
@@ -61,5 +61,10 @@ body{
 .about .sub-title{
     font-size: 16px;
     line-height: 26px;
+    color: #444343;
+}
+.about-sub-title-element{
+    font-weight: 400;
+    font-size: 16px;
     color: #444343;
 }
