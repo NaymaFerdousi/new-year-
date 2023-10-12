@@ -68,3 +68,28 @@ body{
     font-size: 16px;
     color: #444343;
 }
+/* plans style */
+.plans{
+    margin: 150px 200px;
+}
+.plans-title{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.plans-element{
+    display: flex;
+    justify-content: space-between;
+}
+.plan-element{
+    font-size: 20px;
+    color: #151414;
+}
+.plans-sub-element{
+    text-align: center;
+    line-height: 10px;
+}
+.plan-sub-element{
+    font-size: 18px;
+    color:#737272 ;
+}
