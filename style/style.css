@@ -4,10 +4,10 @@ body{
     font-family: 'Work Sans',sans-serif;
 }
 /* banner style */
-.image{
+.image1{
     height: 650px;
     width: 1400px;
-    max-width: 100%;
+    /* max-width: 100%; */
 }
 .banner{
     display: flex;
@@ -92,4 +92,71 @@ body{
 .plan-sub-element{
     font-size: 18px;
     color:#737272 ;
+}
+/* connect style */
+.image{
+    height: 300px;
+    width: 1150px;
+}
+
+.connect{
+    padding-left: 100px;
+    padding-bottom: 80px;
+    display: flex;
+    
+    
+}
+.connect-title{
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 80px;
+    text-align: left;
+    color: #F8F8F8;
+    font-size: 20px;
+}
+/* footer style */
+.footer{
+    background-color: #151414;
+    color: #F8F8F8;
+    max-width: 100%;
+    /* max-height: fit-content; */
+}
+.footer-section{
+    display: flex;
+}
+.future{
+    margin: 80px 150px;
+}
+.future-title{
+    font-size: 30px;
+}
+.future-sub-title{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+}
+.subscribe{
+    margin: 80px 160px;
+    line-height: 30px;
+}
+.subscribe-title{
+    margin-bottom: 25px;
+}
+#emails{
+    background-color: transparent;
+    border-radius: 10px;
+    border: 1px solid #FFFFFF ;
+    padding: 15px 20px;
+    margin-bottom: 25px;
+
+}
+.btn{
+    color: #FD6E0A;
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF ;
+    padding: 10px 15px;
+    /* margin-top: 15px; */
 }
